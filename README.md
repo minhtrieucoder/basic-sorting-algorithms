@@ -1,5 +1,5 @@
 
-# Basic Sorting Algorithms Demo
+# Basic Sorting Algorithms
 
 ## Overview
 
